@@ -16,7 +16,7 @@ function loginForm(){
 	echo'
 	<div id="loginform">
 	<form action="index.php" method="post">
-		<p>Please enter your name to continue:</p>
+		<p>Please enter your Game to continue:</p>
 		<label for="name">Name:</label>
 		<input type="text" name="name" id="name" />
 		<input type="submit" name="enter" id="enter" value="Enter" />
